@@ -86,6 +86,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     - [Web Asset Management](#web-asset-management)
     - [Web Content Extracting](#web-content-extracting)
     - [Web Crawling](#web-crawling)
+    - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - A library for pulling data out of HTML and XML files. [MIT]
     - [Web Frameworks](#web-frameworks)
     - [WebSocket](#websocket)
     - [WSGI Servers](#wsgi-servers)
